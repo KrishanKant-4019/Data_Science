@@ -1,0 +1,13 @@
+Month,Product,Units_Sold,Revenue,Profit
+Jan,Laptop,150,150000,30000
+Jan,Mobile,300,120000,24000
+Jan,Tablet,100,50000,8000
+Feb,Laptop,180,180000,36000
+Feb,Mobile,250,100000,20000
+Feb,Tablet,120,60000,9000
+Mar,Laptop,200,200000,40000
+Mar,Mobile,320,128000,25600
+Mar,Tablet,90,45000,7000
+Apr,Laptop,210,210000,42000
+Apr,Mobile,280,112000,22400
+Apr,Tablet,130,65000,10000
